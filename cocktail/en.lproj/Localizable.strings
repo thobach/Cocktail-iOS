@@ -1,0 +1,383 @@
+/* 
+  Localizable.strings
+  cocktail
+
+  Created by Thomas Bachmann on 21.09.12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+// setup
+"sortIngredientKey" = "name_en";
+
+// help
+"NotFoundKey" = "No Cocktail found ;(\nAdd more ingredients to your house bar or clear the house bar filter.";
+
+// about
+"AboutCocktailKey" = "About Cocktail";
+"AboutCocktailTextKey" = "This app is part of the cocktailberater.de project.";
+"CreditsKey" = "Credits";
+"CreditsTextKey" = "Images were provided by:\n- iStockphoto\n- Scomorokh / Flickr, scienceofdrink.com";
+"FindUsOnKey" = "Find us on";
+
+// tabs & titles
+"House Bar" = "House Bar";
+"Random Cocktail" = "Random Cocktail";
+"Random Cocktails" = "Random Cocktails";
+"Shopping List" = "Shopping List";
+
+// quiz labels
+"WhoAmIKey" = "Who am I?";
+"CorrectKey" = "Correct!";
+"IncorrectKey" = "Not Really!";
+"NextQuestionKey" = "Next Question";
+"CorrectAnswerKey" = "The answer '%@' is correct.";
+"FalseAnswerKey" = "Sorry, the answer '%@' would have been correct.";
+
+// shopping list header labels
+"Desired Cocktails" = "Desired Cocktails";
+"Needed Ingredients" = "Needed Ingredients";
+"Ingredients For Desired Cocktails Available At Home" = "Avail. Ingredients for Desired Cocktails";
+
+// shopping list view labels
+"Clear List" = "Clear List";
+
+// cocktail list lables
+"CocktailSeachPlaceholderKey" = "Cocktail, Ingredient, Keyword";
+
+// cocktail detail labels
+"AddToShoppingListKey" = "Add to shopping list";
+"RemoveFromShoppingListKey" = "Remove from shopping list";
+"IngredientsKey" = "Ingredients";
+"InstructionsKey" = "Instructions";
+"SourceKey" = "Source";
+"AlcoholLevelKey" = "Alcohol Level";
+"CaloriesKey" = "Calories";
+"GlassKey" = "Glass";
+"VolumeKey" = "Volume";
+"DifficultyKey" = "Difficulty";
+"PrepTimeKey" = "Prep. Time";
+
+// house bar list labels
+"HouseBarSeachPlaceholderKey" = "Ingredient Name";
+
+// glasses
+"Cocktailglas / Highballglas" = "Highball Glass";
+"Cocktailschale" = "Cocktail Glass";
+"Hurricaneglas" = "Hurricane Glass";
+"Sektglas" = "Champagne Glass";
+"kleiner Tumbler" = "Small Tumbler";
+"großer Tumbler" = "Large Tumbler";
+"Longdrinkglas" = "Longdrink Glass";
+"Margarita Glas" = "Margarita Glass";
+"Shooter Glas" = "Shooter Glass";
+"Champagnerflöte" = "Champagne Flute";
+"Collinsglas" = "Collins Glass";
+"Weinglas" = "Wine Glass";
+
+// difficulties
+"beginner" = "Beginner";
+"advanced" = "Advanced";
+"profi" = "Professional";
+
+// ingredient categories
+"AlcoholAbove30PercentKey" = "Alcohol (>30%)";
+"AlcoholBelow29PercentKey" = "Alcohol (<29%)";
+"SyrupsKey" = "Syrups";
+"SodasKey" = "Soft Drinks";
+"FruitsAndVegtablesKey" = "Fruits & Vegtables";
+"DairyKey" = "Dairy Products";
+"SugarKey" = "Sugars";
+"OtherKey" = "Other";
+"JuicesKey" = "Juices";
+
+// ingredients
+"Ingredient73Key" = "Pineapple";
+"Ingredient16Key" = "Pineapple Juice";
+"Ingredient39Key" = "Aperol";
+"Ingredient40Key" = "Apricot Brandy";
+"Ingredient23Key" = "Banana Syrup";
+"Ingredient79Key" = "Bitter Lemon";
+"Ingredient24Key" = "Blue Curaçao";
+"Ingredient59Key" = "Blue Curaçao Syrup";
+"Ingredient77Key" = "Blood Orange Juice";
+"Ingredient25Key" = "Cachaça";
+"Ingredient26Key" = "Cherry Brandy";
+"Ingredient114Key" = "Crushed Ice";
+"Ingredient22Key" = "Cola";
+"Ingredient15Key" = "Cranberry Juice";
+"Ingredient21Key" = "Cream of Coconut";
+"Ingredient85Key" = "Creme de Cacao Brown";
+"Ingredient84Key" = "White Creme de Cacao";
+"Ingredient27Key" = "Cream Liqueur";
+"Ingredient113Key" = "Ice cubes";
+"Ingredient71Key" = "Strawberry Syrup";
+"Ingredient2Key" = "Gin";
+"Ingredient17Key" = "Grapefruit Juice";
+"Ingredient3Key" = "Grenadine Syrup";
+"Ingredient96Key" = "Green Peppermint Liqueur";
+"Ingredient28Key" = "Coffee Liqueur";
+"Ingredient65Key" = "Caramel Syrup";
+"Ingredient48Key" = "Cherry Brandy";
+"Ingredient18Key" = "Cherry Juice";
+"Ingredient29Key" = "Coconut Liqueur";
+"Ingredient74Key" = "Coconut Syrup";
+"Ingredient10Key" = "Lime";
+"Ingredient30Key" = "Lime Juice";
+"Ingredient31Key" = "Lime Syrup";
+"Ingredient7Key" = "Almond Syrup";
+"Ingredient60Key" = "Passion Fruit Syrup";
+"Ingredient32Key" = "Melon Liqueur";
+"Ingredient11Key" = "Mint Sprig";
+"Ingredient55Key" = "Mint Syrup";
+"Ingredient14Key" = "Orange Juice";
+"Ingredient76Key" = "Papaya Juice";
+"Ingredient118Key" = "Pepper";
+"Ingredient19Key" = "Peach Liqueur";
+"Ingredient119Key" = "Cowberry Nectar";
+"Ingredient12Key" = "Cane sugar";
+"Ingredient33Key" = "Cane Sugar Syrup";
+"Ingredient13Key" = "Rum (brown)";
+"Ingredient75Key" = "Rum (Gold)";
+"Ingredient8Key" = "Rum (white)";
+"Ingredient34Key" = "Rum 73%";
+"Ingredient35Key" = "Cream";
+"Ingredient117Key" = "Salt";
+"Ingredient9Key" = "Soda";
+"Ingredient72Key" = "Cherry";
+"Ingredient116Key" = "Tabasco Sauce";
+"Ingredient36Key" = "Tequila (white)";
+"Ingredient82Key" = "Tomato Juice";
+"Ingredient80Key" = "Tonic Water";
+"Ingredient37Key" = "Triple Sec Curacao";
+"Ingredient78Key" = "Vodka Lemon";
+"Ingredient38Key" = "Whiskey Liqueur";
+"Ingredient1Key" = "Vodka";
+"Ingredient115Key" = "Worcestershire Sauce";
+"Ingredient83Key" = "Lemonade (Lemon)";
+"Ingredient4Key" = "Lemon Juice";
+
+// ingredient descriptions
+"Ingredient73ProductsKey" = "e.g. Ananas";
+"Ingredient16ProductsKey" = "e.g. Vitafit Ananassaft (Vitafit (LIDL)), Unser Bester Ananas (albi), Ananassaft (Vaihinger)";
+"Ingredient39ProductsKey" = "15% alcohol, e.g. Aperol (Campari)";
+"Ingredient40ProductsKey" = "24% alcohol, e.g. Apricot Brandy (Bols), Apricot Brandy (De Kuyper)";
+"Ingredient23ProductsKey" = "e.g. banane (Giffard), Gelbe Banane Sirup (Monin)";
+"Ingredient79ProductsKey" = "e.g. Bitter Lemon (Schweppes)";
+"Ingredient24ProductsKey" = "23% alcohol, e.g. Bols Blue (Bols), Blue Curacao (De Kuyper)";
+"Ingredient59ProductsKey" = "e.g. Curacao Blue (Monin)";
+"Ingredient77ProductsKey" = "e.g. Blutorange (Pfanner)";
+"Ingredient25ProductsKey" = "40% alcohol, e.g. Ritmo de Sama (Minerva Spirituosen GmbH & Co. Betriebs KG), Pitú (Pitú)";
+"Ingredient26ProductsKey" = "24% alcohol, e.g. Cherry Brandy (De Kuyper)";
+"Ingredient114ProductsKey" = "e.g. Crushed-Eis";
+"Ingredient22ProductsKey" = "e.g. Pepsi (Pepsi), Coca Cola (Coca-Cola)";
+"Ingredient15ProductsKey" = "e.g. Cranberry Classic (Ocean Spray)";
+"Ingredient21ProductsKey" = "e.g. CocoClue (Dunekacke), Cream of Coconut (Coco Tara)";
+"Ingredient85ProductsKey" = "24% alcohol, e.g. Cacao Brown (Bols), Creme de Cacao Brown (De Kuyper)";
+"Ingredient84ProductsKey" = "24% alcohol, e.g. Cacao White (Bols), Creme de Cacao White (De Kuyper)";
+"Ingredient27ProductsKey" = "17% alcohol, e.g. Irish Cream Liqueur (Baileys), Sahne Cream Likör (Meadows), Fine Cream (O'Conner)";
+"Ingredient113ProductsKey" = "e.g. Eiswürfel";
+"Ingredient71ProductsKey" = "e.g. Erdbeer (Riemerschmid), Erdbeere (Campari)";
+"Ingredient2ProductsKey" = "38% alcohol, e.g. Gordon's London Dry Gin (Gordon)";
+"Ingredient17ProductsKey" = "e.g. Grapefruitsaft, ohne Zuckerzusatz (Gut & Günstig), Rosé Grapefruitsaft (Vaihinger)";
+"Ingredient3ProductsKey" = "e.g. Granatapfel (Riemerschmid), Grenadine (De Kuyper)";
+"Ingredient96ProductsKey" = "24% alcohol, e.g. Peppermint Green (Bols), Creme de Menthe grün (De Kuyper)";
+"Ingredient28ProductsKey" = "23% alcohol, e.g. Kahlúa (Pernod Ricard), Coffee (Bols), Creme de Cafe (De Kuyper)";
+"Ingredient65ProductsKey" = "e.g. Karamell (Giffard), Karamel (Monin)";
+"Ingredient48ProductsKey" = "26% alcohol, e.g. Goldene Aue - Saure Kirsche (Nordbrand Nordhausen GmbH), Cherry (Bols), Kirsch (Bols)";
+"Ingredient18ProductsKey" = "e.g. Kirschsaft (Natreen)";
+"Ingredient29ProductsKey" = "17% alcohol, e.g. Coconut (De Kuyper), Coconut (Bols), Pina Colada (De Kuyper)";
+"Ingredient74ProductsKey" = "e.g. Kokos Sirup (Giffard), Kokos Sirup (Monin)";
+"Ingredient10ProductsKey" = "e.g. Limette (Chiquita)";
+"Ingredient30ProductsKey" = "e.g. Roses Lime Juice (Rose's Lime Juice)";
+"Ingredient31ProductsKey" = "e.g. Limette (Monin), Limette Barsirup (Riemerschmid)";
+"Ingredient7ProductsKey" = "e.g. Mandel (Monin)";
+"Ingredient60ProductsKey" = "e.g. Maracuja (Monin), fruits de la passion (Giffard)";
+"Ingredient32ProductsKey" = "20% alcohol, e.g. Melon (De Kuyper), Melon (Bols), Watermelon (De Kuyper)";
+"Ingredient11ProductsKey" = "e.g. Minzezweig";
+"Ingredient55ProductsKey" = "e.g. Menthe Mint (Teisseire)";
+"Ingredient14ProductsKey" = "e.g. Orange (albi), Orangensaft mit Fruchtfleisch (Gut & Günstig)";
+"Ingredient76ProductsKey" = "e.g. Papaya Saft Getränk (Rubicon)";
+"Ingredient118ProductsKey" = "e.g. Pfeffer schwarz ganz (Fuchs)";
+"Ingredient19ProductsKey" = "18% alcohol, e.g. Pêche de Bonheur - Original Pfirsich Likör (Rauter Marken Spirituosen), MaPêche (Brucker), Pêche de Bonheur (Rauter)";
+"Ingredient119ProductsKey" = "e.g. Preiselbeersaft (Vitagarten), Preiselbeere Muttersaft (Voelkel)";
+"Ingredient12ProductsKey" = "e.g. Rohr-Rohzucker braun (Südzucker), Brasilianischer Rohrohrzucker (Velho Barreiho), Brauner Zucker (Südzucker)";
+"Ingredient33ProductsKey" = "e.g. Rohrzucker (Monin)";
+"Ingredient13ProductsKey" = "39% alcohol, e.g. James Cook (RED FOX Wine Company GmbH), Echter Übersee Rum (Captain Grand), Echter Übersee Rum (Captains Rum)";
+"Ingredient75ProductsKey" = "40% alcohol, e.g. Special Gold Jamaica (Appleton)";
+"Ingredient8ProductsKey" = "36% alcohol, e.g. Bacardi Superior (Bacardi), Liberté White Rum (Lidl Stiftung & Co. KG)";
+"Ingredient34ProductsKey" = "73% alcohol, e.g. OLD PASCAS Jamaica Rum 73% (OLD PASCAS), Robinson (Bremer-Rum-Contor)";
+"Ingredient35ProductsKey" = "e.g. Schlagsahne ultrahocherhizt (Milbona), Haltbare Schlagsahne (Gut & Günstig), H-Schlagsahne 30% (Mibell)";
+"Ingredient117ProductsKey" = "e.g. Markensalz (Bad Reichenhaller)";
+"Ingredient9ProductsKey" = "e.g. Urbacher medium (Urbacher Mineralquellen), Saskia Classic Quelle Jessen (MEV Mitteldeutsche Erfrischungsgetränke Vertr), Classic (Apollinaris)";
+"Ingredient72ProductsKey" = "e.g. Cocktailkirsche, Cocktailkirschen (Gold Berry)";
+"Ingredient116ProductsKey" = "e.g. Tabasco";
+"Ingredient36ProductsKey" = "38% alcohol, e.g. Tequila Silver (Rauter), Sauza Tequila Blanco (Tequila Sauza), Tequila Silver (Sierra)";
+"Ingredient82ProductsKey" = "e.g. Tomate (albi)";
+"Ingredient80ProductsKey" = "9% alcohol, e.g. Schweppes Tonic Water (Schweppes), Créme de Cassis (Bols)";
+"Ingredient37ProductsKey" = "33% alcohol, e.g. Orangen-Liquer (Trusart), Triple Sec (Bols), Red Orange (Bols)";
+"Ingredient78ProductsKey" = "40% alcohol, e.g. Absolut Citron (Absolut)";
+"Ingredient38ProductsKey" = "35% alcohol, e.g. Southern Comfort (Southern Comfort)";
+"Ingredient1ProductsKey" = "39% alcohol, e.g. Moskovskaya (Simex), Smirnoff Vanilla Twist (Smirnoff), Absolut Vodka (Country of Sweden)";
+"Ingredient115ProductsKey" = "e.g. Worcestershire Sauce (Heinz)";
+"Ingredient83ProductsKey" = "e.g. Sprite (Coca-Cola)";
+"Ingredient4ProductsKey" = "e.g. Pulco (Orangina Group), Sorbella 100% Zitronensaft (Ackermanns Haus)";
+
+// instructions
+"Cocktail37InstructionsKey" = "Shake all ingredients with ice and strain into a highball glass.";
+"Cocktail38InstructionsKey" = "Shake everything except the soda water. Strain into a Fancyglas with ice and fill up with soda.";
+"Cocktail27InstructionsKey" = "Pour coffee liqueur, Irish Cream (Bailey\'s preferred) and 73% rum carefuly in that order into a shooter glass, so that the ingredients stay in different layers. Light the top of the drink. Serve with a straw and don\'t put it in the burning glass right away. Drink the shooter while it burns as fast as possible through the straw.\nIn the original version of the B52 the top layer didn\'t burn. A layer of Grand Marnier Cordon Rouge was used instead of rum.";
+"Cocktail15InstructionsKey" = "Shake all ingredients with ice cubes and pour into a cocktail glass. Decorate with tropical fruits.";
+"Cocktail16InstructionsKey" = "Pour coconut liqueur into a highball glass and fill up with cherry juice. The cherry juice should be chilled. Serve with a straw.";
+"Cocktail84InstructionsKey" = "Put ice cubes in a small tumbler or Old-Fashioned glass, then add coffee liqueur and finally vodka. The order is important, otherwise the heavier coffee liqueur and vodka don't mix.";
+"Cocktail86InstructionsKey" = "Put all ingredients in a mixing glass and gently decant into another mixing glass, repeat this multiple times (rolling). Finally pour the drink in a chilled stemmed glass and serve with lime and lemon slice on a small plate.";
+"Cocktail20InstructionsKey" = "Shake all ingredients well and pour into a glass filled with crushed ice. Garnish with tropical fruits.";
+"Cocktail70InstructionsKey" = "Put vodka, Blue Curçao and lemon juice in a highball glass with ice and stir. Finally, fill up with Sprite.\nThis cocktail is not shaken.";
+"Cocktail22InstructionsKey" = "Mix all the ingredients except the grenadine in a shaker. Then add the grenadine. Since the grenadine is heavier than the rest, it stays at the bottom and creates a nice color effect. \nThe Brasilian Sunrise is the Tequila Sunrise Brazilian style.";
+"Cocktail52InstructionsKey" = "Cut half a lime into 4 pieces and muddle them with sugar in a small tumbler glass. Then fill the glass with ice to the rim and add the Cachaça.";
+"Cocktail17InstructionsKey" = "Mix all ingredients in a shaker with ice and pour into a cocktail glass. \nThe Cairo Cocktail tastes very fruity and is one of the softer drinks.";
+"Cocktail13InstructionsKey" = "Mix all ingredients in a shaker on ice and shake well, then serve in a cocktail glass.";
+"Cocktail32InstructionsKey" = "Mix all ingredients on ice in a shaker and pour it into a highball glass. As a decoration tropical fruits (such as star fruit) are conceivable.";
+"Cocktail55InstructionsKey" = "Put all ingredients in a cocktail shaker with ice and shake well. Then pour the cocktail in a large cocktail glass and garnish with a lime slice.";
+"Cocktail26InstructionsKey" = "Cut half a lime into quarters and squeeze in a highball glass. Then add the rum and ice cubes and fill up with cola.";
+"Cocktail29InstructionsKey" = "Mix all ingredients with ice, shake well (at least 10 sec.) and strain into a small Martini glass with fresh ice.\nDecorate with slice of and serve. The Havana Club 3 Años is a suitable rum for this cocktail. The lime juice should be freshly pressed. You can replace the sugar syrup, or a part thereof, with grenadine or blue curacao syrup.";
+"Cocktail73InstructionsKey" = "Shake all ingredients in a shaker with ice and pour into a cocktail glass. Garnish with chocolate sprinkles.";
+"Cocktail71InstructionsKey" = "Pour gin in a highball glass with ice and fill up with cold tonic water. Garnish with a slice of lemon.";
+"Cocktail82InstructionsKey" = "Shake all ingredients in a shaker on ice and pour into a cocktail glass.";
+"Cocktail56InstructionsKey" = "Put all ingredients in a cocktail shaker with ice and shake well. Then strain into a cocktail glass and garnish with a lime piece (eighths) and stirrer.";
+"Cocktail60InstructionsKey" = "Put all ingredients in a highball glass with ice. Stir gently and garnish with a lime spiral and serve with a straw.";
+"Cocktail12InstructionsKey" = "Mix all ingredients in a shaker with ice cubes and then serve in a cocktail glass.\nA slice of orange slice or pineapple is recommended as a decoration.\nThe Magic Queen has a fruity-sweet flavor and a nice color effect.";
+"Cocktail58InstructionsKey" = "All ingredients are shaken in a shaker on ice cubes and poured in a glass with crushed ice. Finally, garnish with a sprig of mint and serve.";
+"Cocktail35InstructionsKey" = "Put white tequila, triple sec curaçao and lime juice together with ice in a blender and pour it into a margarita glass.";
+"Cocktail59InstructionsKey" = "Mash the twigs of mint with sugar and fresh lime juice. Then add the rum and fill up with soda water. Finally, garnish with a twig of mint and a straw.";
+"Cocktail64InstructionsKey" = "For the 5cl Triple Sec Curacao it is recommended to use a mixture of 2cl Grand Marnier and 3cl Cointreau. As cream liqueur Bailey's Irish Cream is recommended.\nPut all ingredients into a tumbler on ice or into a shot glass and garnish with a cocktail cherry.";
+"Cocktail72InstructionsKey" = "Mix all ingredients in a shaker with crushed ice, shake well and pour into a large tumbler glass with crushed ice. Garnish with a slice of pineapple and a Amarena cherry.";
+"Cocktail23InstructionsKey" = "Mix all ingredients with ice in a shaker and shake well. Then pour into a cocktail glass and decorate as needed with two cocktail cherries.";
+"Cocktail31InstructionsKey" = "Mix all ingredients with ice in a shaker and shake well, then pour into a cocktail glass.";
+"Cocktail61InstructionsKey" = "Mix all ingredients in a shaker with ice and shake well. Then strain through a strainer into a large stemmed glass with ice cubes and garnish with a strawberry and slice of melon.";
+"Cocktail18InstructionsKey" = "Shake all ingredients with ice in a shaker and it pour into a highball glass. As a decoration a variety of fruits are possible (eg, cantaloupe).";
+"Cocktail39InstructionsKey" = "Shake with ice cubes in the shaker, then strain through a strainer into a Fancyglas with ice. Stick a piece of pineapple with a cocktail cherry to the glass\' edge.";
+"Cocktail67InstructionsKey" = "Pour the tequila and orange juice in a long drink glass filled with ice. Then carefully pour the grenadine in the glass and garnish with a slice of orange and a cocktail cherry.\nImportant note: Don't stir the cocktail before serving to keep the sunrise effect.";
+"Cocktail25InstructionsKey" = "Shake all ingredients ice cubes in a shaker and give the whole mixture into a glass.";
+"Cocktail28InstructionsKey" = "Mix all ingredients with ice in a glass and stir well.";
+"Cocktail62InstructionsKey" = "Shake only the blue curacao and juices on ice in a cocktail shaker. Then strain it through a strainer into a Fancyglas with ice cubes and fill up with bitter lemon. Garnish with a lemon and lime spiral and serve with a straw.";
+"Cocktail41InstructionsKey" = "Mix all the ingredients except the high-proof rum in a shaker with ice and shake strong. Pour into a highball glass with a mint leaf, a slice of lime and a few pieces of pineapple as garnish. At the end add the high-proof rum with a bar spoon.";
+
+// ingredients
+"Cocktail37IngredientsKey" = "Lemon Juice, Orange Juice, Cane Sugar Syrup, Aperol, Ice cubes";
+"Cocktail38IngredientsKey" = "Lemon Juice, Soda, Orange Juice, Cane Sugar Syrup, Apricot Brandy, Ice cubes";
+"Cocktail27IngredientsKey" = "Cream Liqueur, Coffee Liqueur, Rum 73%";
+"Cocktail15IngredientsKey" = "Grenadine Syrup, Lemon Juice, Rum (white), Rum (brown), Orange Juice, Pineapple Juice, Whiskey Liqueur, Ice cubes";
+"Cocktail16IngredientsKey" = "Cherry Juice, Coconut Liqueur, Ice cubes";
+"Cocktail84IngredientsKey" = "Vodka, Coffee Liqueur, Ice cubes";
+"Cocktail86IngredientsKey" = "Vodka, Lemon Juice, Tomato Juice, Worcestershire Sauce, Tabasco Sauce, Salt, Pepper";
+"Cocktail20IngredientsKey" = "Rum (white), Pineapple Juice, Cream of Coconut, Blue Curaçao, Crushed Ice";
+"Cocktail70IngredientsKey" = "Vodka, Lemon Juice, Blue Curaçao, Lemonade (Lemon), Ice cubes";
+"Cocktail22IngredientsKey" = "Grenadine Syrup, Lemon Juice, Orange Juice, Cachaça, Ice cubes";
+"Cocktail52IngredientsKey" = "Lime, Cane sugar, Cachaça, Crushed Ice";
+"Cocktail17IngredientsKey" = "Vodka, Lemon Juice, Almond Syrup, Orange Juice, Blue Curaçao, Ice cubes";
+"Cocktail13IngredientsKey" = "Vodka, Grenadine Syrup, Rum (white), Pineapple Juice, Cream of Coconut, Ice cubes";
+"Cocktail32IngredientsKey" = "Vodka, Gin, Lemon Juice, Rum (white), Orange Juice, Pineapple Juice, Blue Curaçao, Lime Syrup, Whiskey Liqueur, Ice cubes";
+"Cocktail55IngredientsKey" = "Cranberry Juice, Lime Juice, Triple Sec Curacao, Vodka Lemon, Ice cubes";
+"Cocktail26IngredientsKey" = "Rum (white), Lime, Cola, Ice cubes";
+"Cocktail29IngredientsKey" = "Rum (white), Lime Juice, Cane Sugar Syrup, Ice cubes";
+"Cocktail73IngredientsKey" = "Cream, Apricot Brandy, Creme de Cacao Brown, Ice cubes";
+"Cocktail71IngredientsKey" = "Gin, Tonic Water, Ice cubes";
+"Cocktail82IngredientsKey" = "Cream, White Creme de Cacao, Green Peppermint Liqueur, Ice cubes";
+"Cocktail56IngredientsKey" = "Vodka, Lime Juice, Triple Sec Curacao, Ice cubes";
+"Cocktail60IngredientsKey" = "Vodka, Gin, Rum (white), Cola, Lime Juice, Cane Sugar Syrup, Tequila (white), Triple Sec Curacao, Ice cubes";
+"Cocktail12IngredientsKey" = "Grenadine Syrup, Lemon Juice, Rum (brown), Orange Juice, Pineapple Juice, Banana Syrup, Triple Sec Curacao, Ice cubes";
+"Cocktail58IngredientsKey" = "Almond Syrup, Rum (brown), Lime Juice, Cane Sugar Syrup, Triple Sec Curacao, Crushed Ice";
+"Cocktail35IngredientsKey" = "Lime Juice, Tequila (white), Triple Sec Curacao, Ice cubes";
+"Cocktail59IngredientsKey" = "Rum (white), Soda, Mint Sprig, Cane sugar, Lime Juice, Crushed Ice";
+"Cocktail64IngredientsKey" = "Cream Liqueur, Triple Sec Curacao, Ice cubes";
+"Cocktail72IngredientsKey" = "Rum (white), Rum (brown), Pineapple Juice, Cream of Coconut, Cream, Crushed Ice";
+"Cocktail23IngredientsKey" = "Grenadine Syrup, Lemon Juice, Rum (white), Rum (brown), Orange Juice, Cane Sugar Syrup, Ice cubes";
+"Cocktail31IngredientsKey" = "Grenadine Syrup, Orange Juice, Pineapple Juice, Grapefruit Juice, Ice cubes";
+"Cocktail61IngredientsKey" = "Lemon Juice, Orange Juice, Pineapple Juice, Caramel Syrup, Strawberry Syrup, Ice cubes";
+"Cocktail18IngredientsKey" = "Vodka, Pineapple Juice, Peach Liqueur, Ice cubes, Cowberry Nectar";
+"Cocktail39IngredientsKey" = "Pineapple Juice, Cream, Blue Curaçao Syrup, Coconut Syrup, Ice cubes";
+"Cocktail67IngredientsKey" = "Grenadine Syrup, Orange Juice, Tequila (white), Ice cubes";
+"Cocktail25IngredientsKey" = "Vodka, Grenadine Syrup, Lemon Juice, Orange Juice, Melon Liqueur, Ice cubes";
+"Cocktail28IngredientsKey" = "Vodka, Coffee Liqueur, Cream, Ice cubes";
+"Cocktail62IngredientsKey" = "Lemon Juice, Blue Curaçao, Lime Juice, Bitter Lemon, Ice cubes";
+"Cocktail41IngredientsKey" = "Almond Syrup, Rum (white), Rum (brown), Orange Juice, Pineapple Juice, Cherry Brandy, Lime Juice, Rum 73%, Apricot Brandy, Rum (Gold), Papaya Juice, Ice cubes";
+
+// components
+"Cocktail37ComponentsKey" = "2 cl Lemon Juice\n2 cl Orange Juice\n1 cl Cane Sugar Syrup\n4 cl Aperol\n4 Piece Ice cubes";
+"Cocktail38ComponentsKey" = "3 cl Lemon Juice\n6 cl Soda\n2 cl Orange Juice\n1 cl Cane Sugar Syrup\n5 cl Apricot Brandy\n4 Piece Ice cubes";
+"Cocktail27ComponentsKey" = "2 cl Cream Liqueur\n2 cl Coffee Liqueur\n1 cl Rum 73%";
+"Cocktail15ComponentsKey" = "1 cl Grenadine Syrup\n1 cl Lemon Juice\n2 cl Rum (white)\n4 cl Rum (brown)\n4 cl Orange Juice\n4 cl Pineapple Juice\n2 cl Whiskey Liqueur\n4 Piece Ice cubes";
+"Cocktail16ComponentsKey" = "15 cl Cherry Juice\n5 cl Coconut Liqueur\n4 Piece Ice cubes";
+"Cocktail84ComponentsKey" = "6 cl Vodka\n3 cl Coffee Liqueur\n3 Piece Ice cubes";
+"Cocktail86ComponentsKey" = "4.5 cl Vodka\n0.75 cl Lemon Juice\n12 cl Tomato Juice\n0.25 TL Worcestershire Sauce\n0.5 TL Tabasco Sauce\n0.25 TL Salt\n0.25 TL Pepper";
+"Cocktail20ComponentsKey" = "2 cl Rum (white)\n6 cl Pineapple Juice\n2 cl Cream of Coconut\n2 cl Blue Curaçao\n20 cl Crushed Ice";
+"Cocktail70ComponentsKey" = "4 cl Vodka\n1 cl Lemon Juice\n3 cl Blue Curaçao\n13 cl Lemonade (Lemon)\n4 Piece Ice cubes";
+"Cocktail22ComponentsKey" = "2 cl Grenadine Syrup\n1 cl Lemon Juice\n10 cl Orange Juice\n4 cl Cachaça\n4 Piece Ice cubes";
+"Cocktail52ComponentsKey" = "0.5 Piece Lime\n2 TL Cane sugar\n5 cl Cachaça\n20 cl Crushed Ice";
+"Cocktail17ComponentsKey" = "4 cl Vodka\n2 cl Lemon Juice\n2 cl Almond Syrup\n12 cl Orange Juice\n2 cl Blue Curaçao\n4 Piece Ice cubes";
+"Cocktail13ComponentsKey" = "2 cl Vodka\n1 cl Grenadine Syrup\n2 cl Rum (white)\n4 cl Pineapple Juice\n2 cl Cream of Coconut\n3 Piece Ice cubes";
+"Cocktail32ComponentsKey" = "2 cl Vodka\n2 cl Gin\n2 cl Lemon Juice\n2 cl Rum (white)\n4 cl Orange Juice\n2 cl Pineapple Juice\n2 cl Blue Curaçao\n2 cl Lime Syrup\n2 cl Whiskey Liqueur\n4 Piece Ice cubes";
+"Cocktail55ComponentsKey" = "3 cl Cranberry Juice\n1.5 cl Lime Juice\n1.5 cl Triple Sec Curacao\n4 cl Vodka Lemon\n4 Piece Ice cubes";
+"Cocktail26ComponentsKey" = "4 cl Rum (white)\n0.5 Piece Lime\n15 cl Cola\n4 Piece Ice cubes";
+"Cocktail29ComponentsKey" = "4 cl Rum (white)\n2 cl Lime Juice\n0.5 cl Cane Sugar Syrup\n4 Piece Ice cubes";
+"Cocktail73ComponentsKey" = "3 cl Cream\n3 cl Apricot Brandy\n3 cl Creme de Cacao Brown\n4 Piece Ice cubes";
+"Cocktail71ComponentsKey" = "4 cl Gin\n16 cl Tonic Water\n4 Piece Ice cubes";
+"Cocktail82ComponentsKey" = "6 cl Cream\n3 cl White Creme de Cacao\n3 cl Green Peppermint Liqueur\n5 cl Ice cubes";
+"Cocktail56ComponentsKey" = "3 cl Vodka\n3 cl Lime Juice\n3 cl Triple Sec Curacao\n4 Piece Ice cubes";
+"Cocktail60ComponentsKey" = "1.5 cl Vodka\n1.5 cl Gin\n1.5 cl Rum (white)\n8 cl Cola\n2.5 cl Lime Juice\n3 cl Cane Sugar Syrup\n1.5 cl Tequila (white)\n1.5 cl Triple Sec Curacao\n4 Piece Ice cubes";
+"Cocktail12ComponentsKey" = "1 cl Grenadine Syrup\n2 cl Lemon Juice\n5 cl Rum (brown)\n4 cl Orange Juice\n5 cl Pineapple Juice\n1 cl Banana Syrup\n1 cl Triple Sec Curacao\n6 Piece Ice cubes";
+"Cocktail58ComponentsKey" = "0.75 cl Almond Syrup\n6 cl Rum (brown)\n2 cl Lime Juice\n0.75 cl Cane Sugar Syrup\n1.5 cl Triple Sec Curacao\n20 cl Crushed Ice";
+"Cocktail35ComponentsKey" = "2 cl Lime Juice\n4 cl Tequila (white)\n2 cl Triple Sec Curacao\n4 Piece Ice cubes";
+"Cocktail59ComponentsKey" = "4 cl Rum (white)\n10 cl Soda\n3 Piece Mint Sprig\n2 TL Cane sugar\n3 cl Lime Juice\n20 cl Crushed Ice";
+"Cocktail64ComponentsKey" = "3 cl Cream Liqueur\n5 cl Triple Sec Curacao\n4 Piece Ice cubes";
+"Cocktail72ComponentsKey" = "2 cl Rum (white)\n4 cl Rum (brown)\n6 cl Pineapple Juice\n2 cl Cream of Coconut\n2 cl Cream\n20 cl Crushed Ice";
+"Cocktail23ComponentsKey" = "1 cl Grenadine Syrup\n3 cl Lemon Juice\n3 cl Rum (white)\n3 cl Rum (brown)\n4 cl Orange Juice\n1 cl Cane Sugar Syrup\n4 Piece Ice cubes";
+"Cocktail31ComponentsKey" = "2 cl Grenadine Syrup\n6 cl Orange Juice\n6 cl Pineapple Juice\n6 cl Grapefruit Juice\n4 Piece Ice cubes";
+"Cocktail61ComponentsKey" = "3 cl Lemon Juice\n11 cl Orange Juice\n6 cl Pineapple Juice\n2 cl Caramel Syrup\n2 cl Strawberry Syrup\n4 Piece Ice cubes";
+"Cocktail18ComponentsKey" = "3 cl Vodka\n6 cl Pineapple Juice\n3 cl Peach Liqueur\n4 Piece Ice cubes\n6 cl Cowberry Nectar";
+"Cocktail39ComponentsKey" = "14 cl Pineapple Juice\n2 cl Cream\n2 cl Blue Curaçao Syrup\n2 cl Coconut Syrup\n4 Piece Ice cubes";
+"Cocktail67ComponentsKey" = "1 cl Grenadine Syrup\n9 cl Orange Juice\n4 cl Tequila (white)\n4 Piece Ice cubes";
+"Cocktail25ComponentsKey" = "4 cl Vodka\n2 cl Grenadine Syrup\n2 cl Lemon Juice\n10 cl Orange Juice\n2 cl Melon Liqueur\n4 Piece Ice cubes";
+"Cocktail28ComponentsKey" = "4 cl Vodka\n2 cl Coffee Liqueur\n2 cl Cream\n4 Piece Ice cubes";
+"Cocktail62ComponentsKey" = "2 cl Lemon Juice\n4 cl Blue Curaçao\n3 cl Lime Juice\n10 cl Bitter Lemon\n4 Piece Ice cubes";
+"Cocktail41ComponentsKey" = "0.5 cl Almond Syrup\n1 cl Rum (white)\n1 cl Rum (brown)\n2 cl Orange Juice\n4 cl Pineapple Juice\n1 cl Cherry Brandy\n3 cl Lime Juice\n3 cl Rum 73%\n1 cl Apricot Brandy\n2 cl Rum (Gold)\n1 cl Papaya Juice\n4 Piece Ice cubes";
+
+// sources
+"Cocktail37SourceKey" = "";
+"Cocktail38SourceKey" = "";
+"Cocktail27SourceKey" = "";
+"Cocktail15SourceKey" = "";
+"Cocktail16SourceKey" = "";
+"Cocktail84SourceKey" = "The Museum of the American Cocktail. Pocket Recipe Guide, Robert Hess & Anistatia Miller, 2. Edition 2007, Mixellany, Lexington";
+"Cocktail86SourceKey" = "The Museum of the American Cocktail. Pocket Recipe Guide, Robert Hess & Anistatia Miller, 2. Edition 2007, Mixellany, Lexington";
+"Cocktail20SourceKey" = "";
+"Cocktail70SourceKey" = "Cocktails. Über 1000 Drinks mit und ohne Alkohol, Franz Brandl, 2007, südwest Verlag";
+"Cocktail22SourceKey" = "";
+"Cocktail52SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail17SourceKey" = "";
+"Cocktail13SourceKey" = "";
+"Cocktail32SourceKey" = "";
+"Cocktail55SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail26SourceKey" = "";
+"Cocktail29SourceKey" = "";
+"Cocktail73SourceKey" = "Cocktails. Über 1000 Drinks mit und ohne Alkohol, Franz Brandl, 2007, südwest Verlag";
+"Cocktail71SourceKey" = "Cocktails. Über 1000 Drinks mit und ohne Alkohol, Franz Brandl, 2007, südwest Verlag";
+"Cocktail82SourceKey" = "The Pocket Recipe Guide: Museum of the American Cocktail, Hess und Hess, 2007, Booksurge Llc";
+"Cocktail56SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail60SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail12SourceKey" = "";
+"Cocktail58SourceKey" = "\"Trader Vic's Bartender's Guide - Revised\", Doubleday & Company, 1972, p. 162-164";
+"Cocktail35SourceKey" = "";
+"Cocktail59SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail64SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail72SourceKey" = "American Bar by Charles Schumann, 18th Edition, Munich 2006";
+"Cocktail23SourceKey" = "";
+"Cocktail31SourceKey" = "";
+"Cocktail61SourceKey" = "Franz Brandl, Cocktails. Über 1000 Drinks mit und ohne Alkohol, Südwest-Verlag, 2007, Munich";
+"Cocktail18SourceKey" = "Cocktails. Über 1000 Drinks mit und ohne Alkohol, Franz Brandl, 2007, südwest Verlag";
+"Cocktail39SourceKey" = "Cocktails by Franz Brandl, 1st Edition, Munich 2007";
+"Cocktail67SourceKey" = "International Bartenders Association (http://www.iba-world.com/english/cocktails/)";
+"Cocktail25SourceKey" = "";
+"Cocktail28SourceKey" = "";
+"Cocktail62SourceKey" = "Franz Brandl, Cocktails. Über 1000 Drinks mit und ohne Alkohol, Südwest-Verlag, 2007, Munich";
+"Cocktail41SourceKey" = "Original by Donn Beach (actually Ernest Raymond Beaumont-Gannt), taken from the German Wikipedia.";
